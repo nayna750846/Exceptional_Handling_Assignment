@@ -14,11 +14,19 @@ verbs=["play","watch"]
 objects=["Baseball","Cricket"]
 
 Output should come as below:
+
 Americans play Baseball.
+
 Americans play Cricket.
+
 Americans watch Baseball.
+
 Americans watch Cricket.
+
 Indians play Baseball.
+
 Indians play Cricket.
+
 Indians watch Baseball.
+
 Indians watch Cricket.
